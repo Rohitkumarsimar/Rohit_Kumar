@@ -70,7 +70,16 @@
 > 🔗 [Live Demo](https://college-project-sandy.vercel.app)
 
 **Stack:** `JavaScript` `HTML` `CSS` `Google Gemini API`
-
+---
+ 
+### 🏨 [Node Hotels – Hotel Management REST API](https://github.com/Rohitkumarsimar/Node_hotels)
+> A backend REST API for hotel and menu management built with **Node.js, Express.js & MongoDB**.
+> - JWT-based authentication with secure route protection
+> - CRUD operations for hotel data and menu items
+> - Mongoose models with structured schemas
+> - Clean separation of routes, models and auth logic
+ 
+**Stack:** `Node.js` `Express.js` `MongoDB` `JWT` `REST API`
 ---
 
 ### 🌦️ [Weather App](https://github.com/Rohitkumarsimar/weather)
